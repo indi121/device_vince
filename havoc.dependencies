@@ -1,36 +1,26 @@
 [
     {
-        "repository": "android_device_xiaomi_vince",
-        "target_path": "device/xiaomi/vince",
-        "branch": "eleven"
-    },
-    {
         "repository": "android_kernel_xiaomi_vince",
         "target_path": "kernel/xiaomi/vince"
-    },
+    }
     {   
         "repository": "android_vendor_xiaomi_vince",
-        "target_path": "vendor/xiaomi/vince",
-        "branch": "eleven"
+        "target_path": "vendor/xiaomi/vince"
     },
     {
         "repository": "android_hardware_qcom-caf_wlan",
-        "target_path": "hardware/qcom-caf/wlan",
-        "branch": "eleven"
+        "target_path": "hardware/qcom-caf/wlan"
     },
     {
         "repository": "android_hardware_qcom-caf_msm8996_media",
-        "target_path": "hardware/qcom-caf/msm8996/media",
-        "branch": "eleven"
+        "target_path": "hardware/qcom-caf/msm8996/media"
     },
     {
         "repository": "android_hardware_qcom-caf_msm8996_display",
-        "target_path": "hardware/qcom-caf/msm8996/display",
-        "branch": "eleven"
+        "target_path": "hardware/qcom-caf/msm8996/display"
     },
     {
         "repository": "android_hardware_qcom-caf_msm8996_audio",
-        "target_path": "hardware/qcom-caf/msm8996/audio",
-        "branch": "eleven"
+        "target_path": "hardware/qcom-caf/msm8996/audio"
     }
 ]
