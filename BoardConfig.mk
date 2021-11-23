@@ -184,8 +184,8 @@ TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/rootdir/etc/fstab.recovery.qcom
 # RIL
 DISABLE_RILD_OEM_HOOK := true
 
-# Security patch level
-VENDOR_SECURITY_PATCH := 2020-08-01
+# Vendor SPL
+VENDOR_SECURITY_PATCH := $(PLATFORM_SECURITY_PATCH)
 
 # SELinux
 include device/qcom/sepolicy-legacy-um/SEPolicy.mk
